@@ -1,0 +1,17 @@
+# SketchUp Files
+*.skb              # SketchUp backup files
+*.skp~             # SketchUp temporary files
+
+# System Files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+*.tmp
+*.temp
+
+# Editor Files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
